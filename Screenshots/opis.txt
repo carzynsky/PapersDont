@@ -1,0 +1,7 @@
+Gra bazująca na tytule Papers, Please ale nieco uproszczona. Przyjmujemy
+obywateli i wpisujemy ich dane do bazy danych. Na podstawie odpowiedniego
+rozporządzenia w danym dniu, decydujemy ich wpuszczamy czy nie. Kazego dnia
+należy kończyć pracę z nieujemną gotówką aby nie zakończyć gry. Celem gry 
+jest zdobycie 10 tysięcy aby wyruszyć na wakacje. Stan gry można zapisać
+a następnie później wczytać. Ważnym elementem jest apteka i zakup tabletek.
+Kiedy ich nie mamy, musimy wcześniej wyjść z pracy co oznacza dużą karę finansową.
